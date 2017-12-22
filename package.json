@@ -6,6 +6,9 @@
   "scripts": {
     "test": "skpm-test"
   },
+  "skpm": {
+    "testRegex": "/__tests__/.*\\.js$"
+  },
   "author": "Reinier Hartog <rhartog@xebia.com>",
   "license": "ISC",
   "devDependencies": {
