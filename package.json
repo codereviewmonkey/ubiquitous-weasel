@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "skpm-test"
+  },
+  "author": "Reinier Hartog <rhartog@xebia.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@skpm/test-runner": "^0.1.16"
+  }
+}
