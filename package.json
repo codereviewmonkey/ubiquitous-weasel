@@ -7,7 +7,9 @@
     "test": "skpm-test"
   },
   "skpm": {
-    "testRegex": "/__tests__/.*\\.js$"
+    "test": {
+      "testRegex": "/__tests__/.*\\.js$"
+    }
   },
   "author": "Reinier Hartog <rhartog@xebia.com>",
   "license": "ISC",
