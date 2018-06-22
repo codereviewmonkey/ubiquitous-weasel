@@ -4,5 +4,5 @@ test('run some code in sketch', (context, document) => {
   // log(sketch.api_version)
   log(sketch.version)
   // log(sketch.build)
-  log(sketch.full_version)
+  // log(sketch.full_version)
 })
