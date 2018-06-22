@@ -6,5 +6,5 @@ node_js:
   - "node"
  
 script:
-  - npm run test; true # this should work
+  - npm run test; true # this should work really
   
